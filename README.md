@@ -23,7 +23,7 @@ The original purpose of this dataset was to predict whether an individuals incom
 ## Team Members
 
 - Person 1: Hello! My name is Amrita, and I am a 3rd Year Comp Sci. Major
-- Person 2: one sentence about you!
+- Person 2: Hi, I am Andrew, fourth year comp sci
 - Person 3: one sentence about you!
 
 ## References
